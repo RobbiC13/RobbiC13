@@ -14,7 +14,9 @@
 
 ### 👩‍💻: About Me :
 
-I am a Junior Software Developer specializing in Python and JavaScript. 
+I am passionate about application security. I have experience as a full stack web developer, specializing in Python and JavaScript. 
+Recently I completed a SANS cybersecurity bootcamp where I earned my GIAC GSEC, GCIH and GCLD. I also have earned my AWS Cloud Practitioner certification.
+Combining my knowledge of cybersecurity and the SDLC, I want to help companies create secure applications and products.
 
 ---
 
