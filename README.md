@@ -14,9 +14,10 @@
 
 ### 👩‍💻: About Me :
 
-I am passionate about application security. I have experience as a full stack web developer, specializing in Python and JavaScript. 
+I am looking for my next opportunity to work within a team creating products and tools tht improve people's lives.
+I have experience as a full stack web developer, specializing in Python and JavaScript. 
 Recently I completed a SANS cybersecurity bootcamp where I earned my GIAC GSEC, GCIH and GCLD. I also have earned my AWS Cloud Practitioner certification.
-Combining my knowledge of cybersecurity and the SDLC, I want to help companies create secure applications and products.
+Combining my knowledge of cloud, cybersecurity and the SDLC, I want to help companies create secure applications and products.
 
 ---
 
