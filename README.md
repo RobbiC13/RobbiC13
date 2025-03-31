@@ -14,9 +14,10 @@
 
 ### 👩‍💻: About Me :
 
-I am looking for my next opportunity to work within a team creating products and tools that improve people's lives.
-I have experience as a full stack web developer, specializing in Python and JavaScript. 
-Recently I completed a SANS cybersecurity bootcamp where I earned my GIAC GSEC, GCIH and GCLD. I also have earned my AWS Cloud Practitioner certification.
+I am a QA Analyst looking for my next opportunity to work within a team creating applications that improve people's lives.
+As an experienced software tester, I am proficient in both manual and automated testing. I'm adept at test planning and writing test cases. 
+My previoius experience as a full stack web developer, specializing in Python and JavaScript, gives me the added benefit of understanding Test Driven Development and the SDLC.
+I also am certified in cybersecurity (GIAC GSEC, GCIH and GCLD) as well as earning my AWS Cloud Practitioner certification.
 Combining my knowledge of cloud, cybersecurity and the SDLC, I want to help companies create secure applications and products.
 
 ---
@@ -27,12 +28,7 @@ Combining my knowledge of cloud, cybersecurity and the SDLC, I want to help comp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title"JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title"CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title"HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title"Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title"Node" alt="Node" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title"Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title"MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title"SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title"Flask" alt="Flask" width="40" height="40"/>&nbsp;
   
   </div>
 
