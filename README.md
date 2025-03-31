@@ -16,7 +16,7 @@
 
 I am a QA Analyst looking for my next opportunity to work within a team creating applications that improve people's lives.
 As an experienced software tester, I am proficient in both manual and automated testing. I'm adept at test planning and writing test cases. 
-My previoius experience as a full stack web developer, specializing in Python and JavaScript, gives me the added benefit of understanding Test Driven Development and the SDLC.
+My previous experience as a full stack web developer, specializing in Python and JavaScript, gives me the added benefit of understanding Test Driven Development and the SDLC.
 I also am certified in cybersecurity (GIAC GSEC, GCIH and GCLD) as well as earning my AWS Cloud Practitioner certification.
 Combining my knowledge of cloud, cybersecurity and the SDLC, I want to help companies create secure applications and products.
 
